@@ -1,0 +1,22 @@
+{
+  "name": "broma-macabra",
+  "title": "La Broma Macabra",
+  "description": "<p>El Cairo, Noviembre de 1922.</p>\n<p>Sois contratados por el director de uno de los mejores (y posiblemente decadentes) hoteles del mundo, el Shepheard's. Lujo, dinero, alcohol, drogas y sexo se dan la mano en los diversos salones de este lugar.</p>\n<p>Una sencilla misi&oacute;n: Descubrir el misterio que rodea los distintos y extra&ntilde;os sucesos que acontecen en los &uacute;ltimos d&iacute;as y que pueden poner en riesgo la reputaci&oacute;n del hotel.</p>\n<p>Dos d&iacute;as en uno de los m&aacute;s lujosos hoteles del mundo a gastos pagados &iquest;Qu&eacute; puede salir mal?</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "CoC7",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/broma-macabra/images/LaBromaMacabra.png",
+  "coreVersion": "0.8.7",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false
+}
