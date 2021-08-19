@@ -1,0 +1,9 @@
+{"name":"Escenas","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#ba3b3b","flags":{},"_id":"0XYkYHHABiGJCfMq"}
+{"name":"PNJ's","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#b03030","flags":{},"_id":"4KD3I0tBhwlNUnrV"}
+{"_id":"9tYt5eRpS5rWUUkU","name":"Ayudas PJ","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#7b67e0","flags":{}}
+{"name":"Criaturas","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#7d2dbe","flags":{},"_id":"DXZvjaHHxl8VuhOD"}
+{"_id":"TxM2lBB5PRJtC3R4","name":"PJ's","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#349d7f","flags":{}}
+{"_id":"c9W45B4Fb4s1RAN6","name":"Cronologia","type":"JournalEntry","parent":"mZAnn35PMv28bB0L","sorting":"m","sort":0,"color":"#16792a","flags":{}}
+{"name":"Genericos","type":"Actor","parent":"4KD3I0tBhwlNUnrV","sorting":"a","sort":0,"color":"#a80000","flags":{},"_id":"fQJoczFVl2KtOlkJ"}
+{"name":"Ayudas GM","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#2db962","flags":{},"_id":"mZAnn35PMv28bB0L"}
+{"_id":"vKCx4PC5LUIf99y7","name":"Cordura","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#c24242","flags":{}}
